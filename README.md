@@ -1,3 +1,3 @@
 # solangelo
 ## Reyn's Stuff
-Boomy is awesome
+Boomy is awesome!
